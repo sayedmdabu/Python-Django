@@ -15,7 +15,6 @@ Similarly, as a directory can contain subdirectories and files, a Python package
 
 A directory must contain a file named '__init__.py' in order for Python to consider it as a package. This file can be left empty but we generally place the initialization code for that package in this file.
 
-Here is an example. Suppose we are developing a game. One possible organization of packages and modules could be as shown in the figure below.
 """
 
 # Importing module from a package
